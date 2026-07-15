@@ -2,7 +2,7 @@
 
 [
 
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ](https://codeforces.com/profile/miftahul_jannat_arpita)
 
