@@ -12,17 +12,17 @@ I'm a CSE undergrad in IUT -- who finds joy in turning ideas into code. <br>Curr
 
 <img src="./githubstats-header.png" width="220" />
 
-![](https://github-readme-stats.shion.dev/api?username=arpitaonekbhalo&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=arpitaonekbhalo&theme=dark&hide_border=true&background=0D1117)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arpitaonekbhalo&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=arpitaonekbhalo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arpitaonekbhalo&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arpitaonekbhalo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <img src="./trophies-header.png" width="220" />
 
-![](https://github-profile-trophy.vercel.app/?username=arpitaonekbhalo&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arpitaonekbhalo&theme=graywhite&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="./topcontrib-header.png" width="260" />
 
-![](https://github-contributor-stats.vercel.app/api?username=arpitaonekbhalo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=arpitaonekbhalo&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=arpitaonekbhalo&icon=0&color=black)](https://visitcount.itsvg.in)
