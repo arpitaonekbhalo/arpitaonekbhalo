@@ -32,7 +32,12 @@ You'll usually find me with a cup of coffee nearby, a book waiting to be finishe
 ## <img src="./icon-code.png" width="22"/> Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,blender&theme=dark" />
+<img src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 ## <img src="./icon-chart.png" width="22"/> Statistics
