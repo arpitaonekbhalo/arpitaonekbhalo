@@ -20,18 +20,10 @@ I'm a CSE undergrad in IUT -- who finds joy in turning ideas into code. Currentl
 
 You'll usually find me with a cup of coffee nearby, a book waiting to be finished, and my eyes drifting toward the sky whenever I need a moment to think. I love building things, learning something new every day, watching anime, and finding beauty in both elegant code and quiet sunsets.
 
-🎓 Studying Computer Science Engineering at Islamic University of Technology (IUT)
-
-🎮 Building **Echoes of Ashes**, a 2D survival game in C with Raylib
-
-🧩 Solving problems on Codeforces
-
-♟️ Chess player
-
 </td>
 <td width="35%">
 
-<img src="./about-image.png" width="220"/>
+<img src="./about-image.png" width="100%"/>
 
 </td>
 </tr>
@@ -40,7 +32,7 @@ You'll usually find me with a cup of coffee nearby, a book waiting to be finishe
 ## <img src="./icon-code.png" width="22"/> Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,blender" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,blender&theme=dark" />
 </p>
 
 ## <img src="./icon-chart.png" width="22"/> Statistics
@@ -49,19 +41,19 @@ You'll usually find me with a cup of coffee nearby, a book waiting to be finishe
 <tr>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.shion.dev/api?username=arpitaonekbhalo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=arpitaonekbhalo&theme=dark&hide_border=true&bg_color=000000" width="100%" />
 
 </td>
 <td width="55%" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=arpitaonekbhalo&theme=graywhite&hide_border=false" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=arpitaonekbhalo&theme=dark&hide_border=true&background=000000" width="100%" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitaonekbhalo&theme=minimal" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitaonekbhalo&theme=github-dark&bg_color=000000" width="100%" />
 </p>
 
 ---
