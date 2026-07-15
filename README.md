@@ -41,19 +41,19 @@ You'll usually find me with a cup of coffee nearby, a book waiting to be finishe
 <tr>
 <td width="45%" valign="top">
 
-<img src="https://github-readme-stats.shion.dev/api?username=arpitaonekbhalo&theme=dark&hide_border=true&bg_color=000000" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=arpitaonekbhalo&theme=graywhite&hide_border=false&include_all_commits=true&count_private=false" width="100%" />
 
 </td>
 <td width="55%" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=arpitaonekbhalo&theme=dark&hide_border=true&background=000000" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=arpitaonekbhalo&theme=graywhite&hide_border=false" width="100%" />
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitaonekbhalo&theme=github-dark&bg_color=000000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitaonekbhalo&theme=minimal" width="100%" />
 </p>
 
 ---
